@@ -1,0 +1,22 @@
+{
+  "name": "frontend-sem-cara-de-ia",
+  "version": "0.1.0",
+  "description": "Faz o agente criar interfaces com direção visual própria em vez de templates genéricos de IA: pesquisa referências reais, escolhe componentes (shadcn, Magic UI, Aceternity, React Bits), define animação (GSAP, Motion, Three.js) e revisa a tela no navegador antes de entregar.",
+  "author": {
+    "name": "Gabriel Moura",
+    "url": "https://github.com/GabrielMMoura"
+  },
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "frontend",
+    "ui",
+    "shadcn",
+    "animation",
+    "gsap",
+    "motion",
+    "anti-slop"
+  ],
+  "repository": "https://github.com/GabrielMMoura/frontend-sem-cara-de-ia",
+  "homepage": "https://github.com/GabrielMMoura/frontend-sem-cara-de-ia"
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "frontend-sem-cara-de-ia",
+  "owner": {
+    "name": "Gabriel Moura"
+  },
+  "plugins": [
+    {
+      "name": "frontend-sem-cara-de-ia",
+      "description": "Faz o agente criar interfaces com direção visual própria em vez de templates genéricos de IA: pesquisa referências reais, escolhe componentes (shadcn, Magic UI, Aceternity, React Bits), define animação (GSAP, Motion, Three.js) e revisa a tela no navegador antes de entregar.",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}
